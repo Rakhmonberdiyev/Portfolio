@@ -286,6 +286,9 @@ img {
 .skills__html {
   width: 95%;
 }
+.skills__react {
+  width: 49%;
+}
 .skills__css {
   width: 85%;
 }
@@ -296,7 +299,8 @@ img {
   width: 85%;
 }
 .skills__img {
-  border-radius: 0.5rem;
+  border-radius: 1 rem;
+  height: 400px;
 }
 
 
